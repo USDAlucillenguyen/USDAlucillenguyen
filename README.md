@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @USDAlucillenguyen
+- 👋 Hi, I’m @USDAlucillenguyen, a data scientist and engineer at the USDA Forest Service in the Office of Safety and Occupational Health.
 - 👀 I’m interested in computational statistics, information theory, algorithms, data governance, and statistical learning theory.
 - 🌱 I’m currently learning more about data engineering and analytic pipelines.
 - 💞️ I’m looking to collaborate on public service technologies.
